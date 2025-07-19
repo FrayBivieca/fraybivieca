@@ -10,22 +10,21 @@ I'm a passionate Full Stack Developer 🚀 with experience building web applicat
 ## 🛠️ Projects
 Here are some projects I've built:
 
-### 📱 ClickTodo
+### 📱 s
 A full-featured to-do app with user authentication and a responsive UI.
 - Frontend: React + Tailwind
 - Backend: Node.js + Express + MongoDB
-- Live Demo: [clicktodo.vercel.app](https://clicktodo.vercel.app)
+- Live Demo: s
 
 ### 🛒 E-commerce Store
-Built with Shopify, Stripe payments and custom admin panel.
-- Live Demo: [demo-link.com](https://your-ecommerce-demo.com)
+B
 
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/frayismael](https://linkedin.com/in/frayismael)
-- Email: fray@example.com
-- Portfolio: [fraydev.com](https://fraydev.com)
+- LinkedIn:s
+- Email:s
+- Portfolio:s
 
 ---
 
